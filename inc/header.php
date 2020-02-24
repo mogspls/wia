@@ -13,25 +13,22 @@
     <script src="assets/js/script.js"></script>
 </head>
 <body>
-    <header>
-        <div class="container" style=" display: flex; align-items: center; flex: 1;">
-            <div style="display: flex; justify-content: flex-start; align-items: center;">
-                <a href="home">
-                    <img src="assets/img/foreground-04.png" alt="" style="height: 35px;">
-                </a>
+    <div style="position: relative; height: 75px;">
+        <header>
+            <div class="container" style=" display: flex; align-items: center; flex: 1;">
+                <div style="display: flex; justify-content: flex-start; align-items: center;">
+                    <a href="home">
+                        <img src="assets/img/foreground-04.png" alt="" style="height: 35px;">
+                    </a>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="home">Home</a></li>
+                        <li><a href="archetypes">Archetypes</a></li>
+                        <li><a href="disney">Disney</a></li>
+                        <li><a href="about-us">About Us</a></li>
+                    </ul>
+                </nav>
             </div>
-            <div id="navbar">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="home">Home</a></li>
-                    <li><a href="archetypes">Archetypes</a></li>
-                    <li><a href="disney">Disney</a></li>
-                    <li><a href="about-us">About Us</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+        </header>
+    </div>
