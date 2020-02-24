@@ -26,7 +26,28 @@
         </div>
     </section>
     <section id="info">
-        
+        <div class="container flex" style="flex-direction: column;">
+            <section id="disney">
+                <img src="assets/img/disney-mickey.png" alt="" style="width: 80%; max-width: 400px;">
+                <div class="content">
+                    <h1 style="padding: 25px 0px;">Disney</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora sed impedit soluta rerum facere, expedita explicabo, suscipit ducimus aut quia velit tempore quo adipisci eligendi placeat nostrum reiciendis voluptates. Doloribus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, repudiandae, dicta quam cupiditate magnam incidunt eum enim quibusdam id unde aliquam ducimus reprehenderit at veritatis delectus asperiores ea culpa laborum.</p>
+                    <div style="display: flex; margin-top: 50px;">
+                        <a href="disney"  style="background-color: red; padding: 10px 20px; text-decoration: none; font-family: 'Poppins', sans-serif; color: #fff; text-align: center; text-transform: uppercase;">Learn More about Disney</a>
+                    </div>
+                </div>
+            </section>
+            <section id="archetypes">
+                <img src="assets/img/disney-mickey.png" alt="" style="width: 80%; max-width: 400px;">
+                <div class="content">
+                    <h1 style="padding: 25px 0px;">Archetypes</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora sed impedit soluta rerum facere, expedita explicabo, suscipit ducimus aut quia velit tempore quo adipisci eligendi placeat nostrum reiciendis voluptates. Doloribus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, repudiandae, dicta quam cupiditate magnam incidunt eum enim quibusdam id unde aliquam ducimus reprehenderit at veritatis delectus asperiores ea culpa laborum.</p>
+                    <div style="display: flex; margin-top: 50px;">
+                        <a href="archetypes"  style="background-color: red; padding: 10px 20px; text-decoration: none; font-family: 'Poppins', sans-serif; color: #fff; text-align: center; text-transform: uppercase;">Learn More about Archetypes</a>
+                    </div>
+                </div>
+            </section>
+        </div>
     </section>
 </main>
 <?php
