@@ -11,7 +11,6 @@
             <div id="title" style="flex: 1.5; display: flex; flex-direction: column;">
                 <h1 style="font-size: 52px; line-height: 1em; font-weight: 200;">Disney.</h1>
                 <p style="padding: 25px 0px; font-family: 'Poppins', sans-serif; font-weight: 200;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam magni praesentium maiores eos quo quam est. Officia exercitationem consequatur minima ullam sint alias asperiores enim, deleniti, ea aut facilis quam.</p>
-                <a href="#" style="background-color: red; padding: 10px 20px; text-decoration: none; font-family: 'Poppins', sans-serif; color: #fff; text-align: center; margin-top: 25px;">LEARN MORE</a>
             </div>
             <!-- snow white -->
             <div id="wrapper" style="display: flex; flex: 2; justify-content: flex-end;">
